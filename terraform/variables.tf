@@ -1,6 +1,6 @@
 variable "subscription_id" {
   type    = string
-  default = "a799971c-6824-461c-b8e8-6a13c79e627f"
+  default = "817678e7-aa73-40e7-a774-1282e6c56794"
 }
 
 variable "lab_name" {
@@ -10,12 +10,12 @@ variable "lab_name" {
 
 variable "album_number" {
   type    = string
-  default = "012345"
+  default = "72958"
 }
 
 variable "location" {
   type    = string
-  default = "swedencentral"
+  default = "Switzerland North"
 }
 
 variable "resource_group_name" {
